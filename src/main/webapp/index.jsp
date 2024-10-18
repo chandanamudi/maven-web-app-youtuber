@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="RR Technosoft Institute - Learn Multi-Cloud and DevOps to Lead Anywhere!">
 
-  <title>RR Technosoft Institute - Multi-Cloud by using Github-webhook by Ajaykumar Ayk</title>
+  <title>RR Technosoft Institute - Multi-Cloud by using Github-webhook by Ajaykumar Ayk......</title>
   <style>
     body {
       font-family: Arial, sans-serif;
